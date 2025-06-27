@@ -1,6 +1,6 @@
 This is a minimal Visual Builder demo site
 
-## Getting Started
+## Getting Started Test
 
 Configure your local env by adding .env.local file in the root folder
 Make sure to add the following values:
